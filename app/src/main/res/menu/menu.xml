@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_item_new_group"
+        android:title="New Group" />
+
+    <item android:id="@+id/menu_item_contacts"
+        android:title="Contacts" />
+
+    <item android:id="@+id/menu_item_calls"
+        android:title="Calls" />
+
+    <item android:id="@+id/menu_item_nearby"
+        android:title="People Nearby" />
+
+</menu>

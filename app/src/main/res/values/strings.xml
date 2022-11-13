@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Fundamentals 10</string>
+    <string name="open">Slidable manu is opened</string>
+    <string name="close">Slidable menu is closed</string>
+</resources>
